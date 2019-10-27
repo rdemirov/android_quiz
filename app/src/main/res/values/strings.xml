@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check_answersLabel">Check answers</string>
+    <string name="c_SafetyLabel">Committee of pubic safety</string>
+    <string name="directorateLabel">The first directorate</string>
+    <string name="national_assemblyLabel">National Assembly</string>
+    <string name="gang_of_fourLabel">Gang of four</string>
+    <string name="question1_text">1. Which of the following lead to the French Revolution?</string>
+    <string name="financialCrisisLabel">Financial crisis in France</string>
+    <string name="lavishSpendingLabel">The lavish spending of Louis XVI and Marie Antionette</string>
+    <string name="systemInequalityLabel">The inequality of the Estate system</string>
+    <string name="question_2_text">2. The attack on a Paris prison by enraged citizens is called:</string>
+    <string name="question3_text">3. The tennis court oath pledged that:</string>
+    <string name="question4_text">4. The radical jacobin who presided over the Reign of terror was:</string>
+    <string name="question5_text">5. The group that was given extraordinary powers to protect France from outside invasion was called:</string>
+    <string name="resetLabel">Reset</string>
+</resources>
